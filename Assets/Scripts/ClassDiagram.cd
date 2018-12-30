@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddLifeController">
+    <Position X="2" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AddLifeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossController">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAiAAAAAAAAAAAgAAAAACAAAAAAAAgQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BossController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoundaryController">
+    <Position X="8.25" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BoundaryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyController">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyHeavyController">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyHeavyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyLightController">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyLightController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMediumController">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyMediumController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyShotController">
+    <Position X="7.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyShotController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplosionController">
+    <Position X="8.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\ExplosionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="10.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>MAAAQAAAEiAAAAASQEAEAAAAAAABAAAAAAAAAQAAAUA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelUpController">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelUpController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpController">
+    <Position X="1" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAAAAAIAAAQABAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PowerUpController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAEiAAABAAAAACAQABAAAAAAABAAgEgAAACAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLevel1Controller">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLevel1Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLevel2Controller">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLevel2Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLevel3Controller">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLevel3Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShotController">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACABiAAEAAAAAAAAAABAEAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShotController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipController">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiIAFCAAAAAAAAABQAAoAAAgACBAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShipController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShotController">
+    <Position X="3.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerShotController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileController">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TileController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedBombController">
+    <Position X="7.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RedBombController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
